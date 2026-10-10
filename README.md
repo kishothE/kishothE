@@ -46,7 +46,7 @@ The portfolio board contains high-level project summaries and progress updates. 
 Need help with a spreadsheet workflow, business website or design task? Tell me what you need, what you currently use and your preferred timeline. We can start with a clear scope that fits your business.
 
 - **Business enquiries:** [virtualdeskstudios@gmail.com](mailto:virtualdeskstudios@gmail.com)
-- **Website:** [VirtualDeskStudios](https://kishothkumar.virtualdeskstudios.workers.dev/)
+- **Website:** [VirtualDeskStudios](https://www.virtualdeskstudios.workers.dev/)
 - **Company:** [VirtualDeskStudios on LinkedIn](https://www.linkedin.com/company/virtualdeskstudios/)
 
 ---
