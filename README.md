@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="assets/portfolio-banner.svg" alt="VirtualDeskStudios — KISHOTHKUMAR E, Project Manager. Data, Design and Digital Solutions." width="100%">
+  <img src="assets/portfolio-banner.svg" alt="VirtualDeskStudios — KISHOTHKUMAR E, Project Manager. Also Customer Service and Technical Support at ENK Technologies Private Limited." width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/users/kishothE/projects/2/views/1"><strong>Explore my portfolio</strong></a>
+  <a href="https://www.virtualdeskstudios.workers.dev/projects" target="_blank" rel="noopener noreferrer"><strong>View project case studies</strong></a>
+  &nbsp; · &nbsp; <a href="https://github.com/users/kishothE/projects/2/views/1">Project board</a>
   &nbsp; · &nbsp; <a href="https://www.virtualdeskstudios.workers.dev/">VirtualDeskStudios</a>
   &nbsp; · &nbsp; <a href="mailto:virtualdeskstudios@gmail.com">Discuss a project</a>
   &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/kishothkumaresvaran">LinkedIn</a>
@@ -17,11 +18,18 @@ I help small businesses organise their data, simplify everyday work and build a 
 
 I turn business needs into a clear scope, practical deliverables and an organised review process—with careful handling of business information throughout.
 
+## Professional experience
+
+| Organisation | Role & focus |
+|---|---|
+| **VirtualDeskStudios** | **Project Manager** — project scope, requirements, coordination and delivery review across data, design and digital solutions. |
+| **ENK Technologies Private Limited** | **Customer Service & Technical Support · November 2023–Present** — customer enquiries and follow-ups, technical issue coordination, POS/CRM record handling, sales reporting and purchase order processing. |
+
 ## Current focus
 
 | In Progress | Planned |
 |---|---|
-| **[Novira Lifestyle & Trends](https://github.com/users/kishothE/projects/2/views/1?pane=issue&itemId=267980082)**<br>E-commerce development, shopping experience refinement and functional QA. Final handover and verification of the latest production changes remain pending. | **[VE-HUB — Products · Services · Technology](https://github.com/users/kishothE/projects/2/views/1?pane=issue&itemId=275151271)**<br>A new division of VirtualDeskStudios. My focus is project scope, requirements and customer journeys for a planned products and services platform. Implementation and launch are not yet confirmed. |
+| **<a href="https://www.virtualdeskstudios.workers.dev/projects#novira-lifestyle-trends" target="_blank" rel="noopener noreferrer">Novira Lifestyle & Trends</a>**<br>E-commerce development, shopping experience refinement and functional QA. Final handover and verification of the latest production changes remain pending. | **VE-HUB — Products · Services · Technology**<br>A new division of VirtualDeskStudios. My focus is project scope, requirements and customer journeys for a planned products and services platform. Implementation and launch are not yet confirmed. A public website page is pending. [View planning summary](https://github.com/users/kishothE/projects/2/views/1?pane=issue&itemId=275151271). |
 
 ## What I can help with
 
@@ -45,15 +53,15 @@ I use AI-assisted tools to support delivery, then review the output against the 
 
 ## Selected completed work
 
-Open a project name to read its public summary.
+Open a project name to view its public website or the corresponding case study on VirtualDeskStudios.
 
 | Project | Deliverable | Status |
 |---|---|---|
-| **[VirtualDeskStudios](https://github.com/users/kishothE/projects/2/views/1?pane=issue&itemId=267979858)** | Corporate website and services showcase. | Completed |
-| **[Galaxy Toy Store](https://github.com/users/kishothE/projects/2/views/1?pane=issue&itemId=267979976)** | E-commerce website with product browsing and WhatsApp ordering. | Completed |
-| **[ALLIRANI TRADERS](https://github.com/users/kishothE/projects/2/views/1?pane=issue&itemId=267979986)** | Spreadsheet-based data management and reporting workflow. | Completed |
-| **[Google Sheets Data Automation](https://github.com/users/kishothE/projects/2/views/1?pane=issue&itemId=267979982)** | Structured data management and address lookup. | Completed |
-| **[Staff Attendance Automation](https://github.com/users/kishothE/projects/2/views/1?pane=issue&itemId=267979988)** | Attendance capture, working-hours calculations and reporting. | Completed solution |
+| **<a href="https://www.virtualdeskstudios.workers.dev/" target="_blank" rel="noopener noreferrer">VirtualDeskStudios</a>** | Corporate website and services showcase. | Completed |
+| **<a href="https://www.virtualdeskstudios.workers.dev/projects#galaxy-toy-store" target="_blank" rel="noopener noreferrer">Galaxy Toy Store</a>** | E-commerce website with product browsing and WhatsApp ordering. | Completed |
+| **<a href="https://www.virtualdeskstudios.workers.dev/projects#allirani-traders" target="_blank" rel="noopener noreferrer">ALLIRANI TRADERS</a>** | Spreadsheet-based data management and reporting workflow. | Completed |
+| **<a href="https://www.virtualdeskstudios.workers.dev/projects#address-lookup-system" target="_blank" rel="noopener noreferrer">Google Sheets Data Automation</a>** | Structured data management and address lookup. | Completed |
+| **<a href="https://www.virtualdeskstudios.workers.dev/projects#attendance-system" target="_blank" rel="noopener noreferrer">Staff Attendance Automation</a>** | Attendance capture, working-hours calculations and reporting. | Completed solution |
 
 *“Completed solution” refers to the attendance deliverable; a specific customer deployment is not claimed.*
 
