@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="520" viewBox="0 0 1680 520" role="img" aria-labelledby="title desc">
+  <title id="title">VirtualDeskStudios — KISHOTHKUMAR E</title>
+  <desc id="desc">Project Manager in Sri Lanka. Data, Design and Digital Solutions. Practical solutions for everyday business.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081424"/><stop offset="0.6" stop-color="#0d2038"/><stop offset="1" stop-color="#112b48"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67ddf1"/><stop offset="1" stop-color="#3c7bff"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#162f4b"/><stop offset="1" stop-color="#10243a"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.3" fill="#87b4d9" opacity=".17"/>
+    </pattern>
+  </defs>
+  <rect width="1680" height="520" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1678" height="518" rx="27" fill="none" stroke="#314764"/>
+  <path d="M1020 0h632a28 28 0 0 1 28 28v464a28 28 0 0 1-28 28h-790Z" fill="#15385a" opacity=".24"/>
+  <rect x="1060" y="35" width="580" height="450" fill="url(#dots)"/>
+  <circle cx="1540" cy="45" r="180" fill="none" stroke="#365f85" opacity=".3"/>
+  <circle cx="1540" cy="45" r="230" fill="none" stroke="#365f85" opacity=".16"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <rect x="64" y="58" width="72" height="72" rx="19" fill="url(#blue)"/>
+    <text x="100" y="106" text-anchor="middle" fill="#081627" font-size="33" font-weight="700" letter-spacing="-2">VE</text>
+    <text x="158" y="105" fill="#f4f8fd" font-size="39" font-weight="700" letter-spacing="-.9">VirtualDeskStudios</text>
+    <rect x="64" y="162" width="32" height="3" rx="1.5" fill="#d3b277"/>
+    <text x="112" y="171" fill="#a2b5cb" font-size="17" font-weight="700" letter-spacing="3.7">PROJECT PORTFOLIO</text>
+    <text x="60" y="259" fill="#ffffff" font-size="63" font-weight="700" letter-spacing="-1.7">KISHOTHKUMAR E</text>
+    <text x="64" y="317" fill="#80daef" font-size="29" letter-spacing=".1">Data · Design · Digital Solutions</text>
+    <text x="64" y="374" fill="#b8c8dc" font-size="23">Practical solutions for everyday business.</text>
+    <rect x="64" y="418" width="306" height="48" rx="24" fill="#142b44" stroke="#35506e"/>
+    <circle cx="91" cy="442" r="5" fill="#75d1e4"/>
+    <text x="109" y="450" fill="#e3edf9" font-size="21">Project Manager</text>
+    <text x="397" y="450" fill="#a8bbd0" font-size="21">Sri Lanka</text>
+    <g transform="translate(1080 102)">
+      <path d="M23 29v247" stroke="#4d779f" stroke-width="2"/>
+      <g>
+        <circle cx="23" cy="42" r="8" fill="#6bdded"/>
+        <rect x="56" width="442" height="86" rx="16" fill="url(#card)" stroke="#3a5875"/>
+        <text x="82" y="31" fill="#6cd4e8" font-size="15" font-weight="700" letter-spacing="2.5">01 / DATA</text>
+        <text x="82" y="61" fill="#f2f7ff" font-size="23" font-weight="700">Structure &amp; automate</text>
+        <path d="M456 24h15m-15 10h15m-15 10h10" stroke="#84b1d8" stroke-width="2" stroke-linecap="round"/>
+      </g>
+      <g transform="translate(0 111)">
+        <circle cx="23" cy="42" r="8" fill="#7eabff"/>
+        <rect x="56" width="442" height="86" rx="16" fill="url(#card)" stroke="#3a5875"/>
+        <text x="82" y="31" fill="#92b7ff" font-size="15" font-weight="700" letter-spacing="2.5">02 / DESIGN</text>
+        <text x="82" y="61" fill="#f2f7ff" font-size="23" font-weight="700">Communicate clearly</text>
+        <path d="m456 38 8-14 8 14-8 14Z" fill="none" stroke="#84b1d8" stroke-width="2"/>
+      </g>
+      <g transform="translate(0 222)">
+        <circle cx="23" cy="42" r="8" fill="#d3b277"/>
+        <rect x="56" width="442" height="86" rx="16" fill="url(#card)" stroke="#3a5875"/>
+        <text x="82" y="31" fill="#dec397" font-size="15" font-weight="700" letter-spacing="2.5">03 / DIGITAL</text>
+        <text x="82" y="61" fill="#f2f7ff" font-size="23" font-weight="700">Connect your business</text>
+        <path d="m460 25-6 10 6 10m11-20 6 10-6 10" fill="none" stroke="#84b1d8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <text x="1136" y="463" fill="#7897b8" font-size="15" letter-spacing="2.4">CLARITY. CARE. PRACTICAL DELIVERY.</text>
+  </g>
+</svg>
