@@ -29,7 +29,7 @@ I turn business needs into a clear scope, practical deliverables and an organise
 
 | In Progress | Planned |
 |---|---|
-| **<a href="https://www.virtualdeskstudios.workers.dev/projects#novira-lifestyle-trends" target="_blank" rel="noopener noreferrer">Novira Lifestyle & Trends</a>**<br>E-commerce development, shopping experience refinement and functional QA. Final handover and verification of the latest production changes remain pending. | **VE-HUB — Products · Services · Technology**<br>A new division of VirtualDeskStudios. My focus is project scope, requirements and customer journeys for a planned products and services platform. Implementation and launch are not yet confirmed. A public website page is pending. [View planning summary](https://github.com/users/kishothE/projects/2/views/1?pane=issue&itemId=275151271). |
+| **<a href="https://www.virtualdeskstudios.workers.dev/projects#novira-lifestyle-trends" target="_blank" rel="noopener noreferrer">Novira Lifestyle & Trends</a>**<br>E-commerce development, shopping experience refinement and functional QA. Final handover and verification of the latest production changes remain pending. | **<a href="https://www.virtualdeskstudios.workers.dev/needsly" target="_blank" rel="noopener noreferrer">Needsly — All Your Needs. One Destination.</a>**<br>An upcoming sister venture of VirtualDeskStudios. My focus is project scope, requirements and customer journeys for the planned platform. A public showcase page is available on the VirtualDeskStudios website; launch details are not yet confirmed. |
 
 ## What I can help with
 
