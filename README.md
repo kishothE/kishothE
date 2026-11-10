@@ -27,9 +27,9 @@ At VirtualDeskStudios, I oversee data and digital projects, from defining the sc
 
 ## Current focus
 
-| E-commerce case study | Upcoming venture |
-|---|---|
-| **<a href="https://virtualdeskstudios.com/projects#novira-lifestyle-trends" target="_blank" rel="noopener noreferrer">Novira Lifestyle & Trends</a>**<br>Fashion and lifestyle storefront with product browsing, checkout and order management. | **<a href="https://virtualdeskstudios.com/needsly" target="_blank" rel="noopener noreferrer">Needsly — All Your Needs. One Destination.</a>**<br>An upcoming sister venture of VirtualDeskStudios. My focus is project scope, requirements and customer journeys for the planned platform. A public showcase page is available on the VirtualDeskStudios website; launch details are not yet confirmed. |
+**[Needsly — All Your Needs. One Destination.](https://virtualdeskstudios.com/needsly)**
+
+An upcoming sister venture of VirtualDeskStudios. My focus is project scope, requirements and customer journeys for the planned platform. A public showcase page is available on the VirtualDeskStudios website; launch details are not yet confirmed.
 
 ## What I can help with
 
@@ -58,6 +58,7 @@ Open a project name to view its public website or the corresponding case study o
 | Project | Deliverable | Status |
 |---|---|---|
 | **<a href="https://virtualdeskstudios.com/" target="_blank" rel="noopener noreferrer">VirtualDeskStudios</a>** | Corporate website and services showcase. | Completed |
+| **[NOVIRA Lifestyle & Trends](https://virtualdeskstudios.com/projects#novira-lifestyle-trends)** | Fashion and lifestyle storefront with product browsing, checkout and order management. | Completed |
 | **<a href="https://virtualdeskstudios.com/projects#galaxy-toy-store" target="_blank" rel="noopener noreferrer">Galaxy Toy Store</a>** | E-commerce website with product browsing and WhatsApp ordering. | Completed |
 | **<a href="https://virtualdeskstudios.com/projects#allirani-traders" target="_blank" rel="noopener noreferrer">ALLIRANI TRADERS</a>** | Spreadsheet-based data management and reporting workflow. | Completed |
 | **<a href="https://virtualdeskstudios.com/projects#address-lookup-system" target="_blank" rel="noopener noreferrer">Google Sheets Data Automation</a>** | Structured data management and address lookup. | Completed |
