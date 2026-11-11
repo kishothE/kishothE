@@ -25,12 +25,6 @@ At VirtualDeskStudios, I oversee data and digital projects, from defining the sc
 | **VirtualDeskStudios** | **Managing Director** — oversee project scope, requirements and delivery review across data, design and digital projects. |
 | **ENK Technologies Private Limited** | **Customer Service & Technical Support · November 2023–Present** — customer enquiries and follow-ups, technical issue coordination, POS/CRM record handling, sales reporting and purchase order processing. |
 
-## Current focus
-
-**[Needsly — All Your Needs. One Destination.](https://virtualdeskstudios.com/needsly)**
-
-An upcoming sister venture of VirtualDeskStudios. My focus is project scope, requirements and customer journeys for the planned platform. A public showcase page is available on the VirtualDeskStudios website; launch details are not yet confirmed.
-
 ## What I can help with
 
 | Area | Practical support |
