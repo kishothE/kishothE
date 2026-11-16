@@ -1,22 +1,25 @@
 [![VirtualDeskStudios](https://github.com/user-attachments/assets/e499fdad-b2a7-4e48-8f30-1bd65c036c1e)](https://virtualdeskstudios.com)
 
-# Kishoth
+# Kishothkumar Esvaran
 
-**Managing Director at VirtualDeskStudios · Vavuniya, Sri Lanka**
+**Managing Director at VirtualDeskStudios**  
+Vavuniya, Sri Lanka
 
-I lead website, e-commerce, branding and spreadsheet automation projects for small businesses. At VirtualDeskStudios, I define project scope, coordinate delivery and review the work before handover.
+I lead the delivery of business systems and websites for small businesses. I define project scope, coordinate delivery and review the work before handover. My focus includes billing, payroll, staff attendance and e-commerce.
 
-## Core Skills
+## Studio Services
 
-Project management, web and e-commerce development, graphic design, Microsoft Excel and Google Sheets automation.
+- **Automation & Business Systems** · Billing, payroll, attendance and spreadsheet automation
+- **Website Design & Development** · Business websites, online stores and custom web apps
+- **Creative & Design** · Brand identity, graphic design and video production
+- **Marketing & Business Support** · Digital marketing, on-page SEO and administrative support
 
-## Selected Work
+## Live Demos
 
-- [NOVIRA Lifestyle & Trends](https://virtualdeskstudios.com/projects#novira-lifestyle-trends) — e-commerce storefront with checkout and order management.
-- [Galaxy Toy Store](https://virtualdeskstudios.com/projects#galaxy-toy-store) — product catalogue with WhatsApp ordering.
-- [ALLIRANI TRADERS](https://virtualdeskstudios.com/projects#allirani-traders) — spreadsheet-based data management and reporting.
+- [Invoice & Quotation Generator](https://virtualdeskstudios.com/demos/invoice-generator) · Create invoices and quotations with PDF export.
+- [Salary Management & Payslip System](https://virtualdeskstudios.com/demos/salary-payslip) · Calculate payroll and preview payslips.
 
-## Links
+## Connect
 
 [Website](https://virtualdeskstudios.com) · [LinkedIn](https://www.linkedin.com/in/kishothkumaresvaran/) · [GitHub](https://github.com/kishothE)
 
