@@ -1,77 +1,21 @@
-<p align="center">
-  <a href="https://virtualdeskstudios.com/"><img src="assets/virtualdeskstudios-banner.png" alt="VirtualDeskStudios — virtualdeskstudios.com" width="100%"></a>
-</p>
-
-<p align="center">
-  <a href="https://virtualdeskstudios.com/projects" target="_blank" rel="noopener noreferrer"><strong>View project case studies</strong></a>
-  &nbsp; · &nbsp; <a href="https://github.com/users/kishothE/projects/2/views/1">Project board</a>
-  &nbsp; · &nbsp; <a href="https://virtualdeskstudios.com/">VirtualDeskStudios</a>
-  &nbsp; · &nbsp; <a href="mailto:virtualdeskstudios@gmail.com">Discuss a project</a>
-  &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/kishothkumaresvaran">LinkedIn</a>
-</p>
-
-## Hello, I'm Kishoth.
+# Kishoth
 
 **Managing Director at VirtualDeskStudios · Vavuniya, Sri Lanka**
 
-I help small businesses organise their data, simplify everyday work and build a clear online presence. My work brings together spreadsheet automation, graphic design, project coordination and AI-assisted website development.
+I lead website, e-commerce, branding and spreadsheet automation projects for small businesses. At VirtualDeskStudios, I define project scope, coordinate delivery and review the work before handover.
 
-At VirtualDeskStudios, I oversee data and digital projects, from defining the scope and reviewing deliverables to handing over the finished work.
+## Core Skills
 
-## Professional experience
+Project management, web and e-commerce development, graphic design, Microsoft Excel and Google Sheets automation.
 
-| Organisation | Role & focus |
-|---|---|
-| **VirtualDeskStudios** | **Managing Director** — oversee project scope, requirements and delivery review across data, design and digital projects. |
-| **ENK Technologies Private Limited** | **Customer Service & Technical Support · November 2023–Present** — customer enquiries and follow-ups, technical issue coordination, POS/CRM record handling, sales reporting and purchase order processing. |
+## Selected Work
 
-## What I can help with
+- [NOVIRA Lifestyle & Trends](https://virtualdeskstudios.com/projects#novira-lifestyle-trends) — e-commerce storefront with checkout and order management.
+- [Galaxy Toy Store](https://virtualdeskstudios.com/projects#galaxy-toy-store) — product catalogue with WhatsApp ordering.
+- [ALLIRANI TRADERS](https://virtualdeskstudios.com/projects#allirani-traders) — spreadsheet-based data management and reporting.
 
-| Area | Practical support |
-|---|---|
-| **Data & automation** | Excel and Google Sheets workflows, data cleaning, lookup tools and recurring reports. |
-| **Design & branding** | Logos, promotional banners and social media visuals with a consistent identity. |
-| **Websites & e-commerce** | AI-assisted business websites, responsive storefronts, online catalogues and ordering journeys. |
-| **Project & business support** | Requirements, project coordination, web research, catalogue updates, documentation and functional review. |
+## Links
 
-<details>
-<summary><strong>Tools & working approach</strong></summary>
+[Website](https://virtualdeskstudios.com) · [LinkedIn](https://www.linkedin.com/in/kishothkumaresvaran/) · [GitHub](https://github.com/kishothE)
 
-<br>
-
-<kbd>Microsoft Excel</kbd> &nbsp; <kbd>Google Sheets</kbd> &nbsp; <kbd>GitHub</kbd> &nbsp; <kbd>Google Antigravity</kbd>
-
-I use AI-assisted tools to support delivery, then review the output against the agreed requirements. My approach combines structured data, clear documentation, responsive design and practical testing.
-
-</details>
-
-## Selected completed work
-
-Open a project name to view its public website or the corresponding case study on VirtualDeskStudios.
-
-| Project | Deliverable | Status |
-|---|---|---|
-| **<a href="https://virtualdeskstudios.com/" target="_blank" rel="noopener noreferrer">VirtualDeskStudios</a>** | Corporate website and services showcase. | Completed |
-| **[NOVIRA Lifestyle & Trends](https://virtualdeskstudios.com/projects#novira-lifestyle-trends)** | Fashion and lifestyle storefront with product browsing, checkout and order management. | Completed |
-| **<a href="https://virtualdeskstudios.com/projects#galaxy-toy-store" target="_blank" rel="noopener noreferrer">Galaxy Toy Store</a>** | E-commerce website with product browsing and WhatsApp ordering. | Completed |
-| **<a href="https://virtualdeskstudios.com/projects#allirani-traders" target="_blank" rel="noopener noreferrer">ALLIRANI TRADERS</a>** | Spreadsheet-based data management and reporting workflow. | Completed |
-| **<a href="https://virtualdeskstudios.com/projects#address-lookup-system" target="_blank" rel="noopener noreferrer">Google Sheets Data Automation</a>** | Structured data management and address lookup. | Completed |
-| **<a href="https://virtualdeskstudios.com/projects#attendance-system" target="_blank" rel="noopener noreferrer">Staff Attendance Automation</a>** | Attendance capture, working-hours calculations and reporting. | Completed solution |
-
-*“Completed solution” refers to the attendance deliverable; a specific customer deployment is not claimed.*
-
-## How I work
-
-1. **Understand the need** — clarify the current process and the intended outcome.
-2. **Define and deliver** — agree the scope, organise the work and review progress.
-3. **Check and hand over** — test the agreed deliverables and explain how to use them.
-
-## Let's discuss your project
-
-Need a clearer spreadsheet workflow, a business website or design support? Share your requirements, current tools and preferred timeline.
-
-**[Email VirtualDeskStudios](mailto:virtualdeskstudios@gmail.com)** · **[Visit our website](https://virtualdeskstudios.com/)** · **[Company LinkedIn](https://www.linkedin.com/company/virtualdeskstudios/)**
-
----
-
-<sub>This portfolio shares project summaries. Client source code, private systems and business records remain confidential.</sub>
+[Instagram](https://www.instagram.com/esvarankishoth/) · [Facebook](https://www.facebook.com/Esvarankishoth) · [TikTok](https://www.tiktok.com/@mr_kishoth) · [X](https://x.com/Kisho6804)
